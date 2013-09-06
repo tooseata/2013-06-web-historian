@@ -1,0 +1,464 @@
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+file written at /Users/hackreactor/code/riksidhu/2013-06-web-historian/spec/testdata/secretdino.com
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+file written at /Users/hackreactor/code/riksidhu/2013-06-web-historian/data/sites/www.ricky-sidhu.tumblr.com
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+file written at /Users/hackreactor/code/riksidhu/2013-06-web-historian/data/sites/hey.com
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+file written at /Users/hackreactor/code/riksidhu/2013-06-web-historian/data/sites/red.com
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!
+Starting HTML fetcher in /Users/hackreactor/code/riksidhu/2013-06-web-historian/workers
+HTML fetcher complete!

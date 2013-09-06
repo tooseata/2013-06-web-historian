@@ -1,0 +1,41 @@
+<!doctype>
+<html lang="en">
+<head>
+  <title>POST data</title>
+  <script src="http://code.jquery.com/jquery-1.10.2.js"></script>
+ <!--  <link rel="stylesheet" href="bubblestyle.css" type="text/css" charset="utf-8"/>
+  <link rel="stylesheet" href="brap.min.css" type="text/css" title="no title" charset="utf-8"/> -->
+</head>
+<body>
+
+<h1>Plot Your Favorite Subreddit</h1>
+<p>URL Archive</p>
+<input style="width:460px"class="archive"></input>
+
+
+</body>
+
+
+
+<script type="text/javascript">
+
+$(".archive").on("change", function(){
+
+var value = $(".archive").val();
+var postData = $.ajax({
+      url: 'http://127.0.0.1:8080',
+      contentType: 'application/json',
+      type: 'POST',
+      data: JSON.stringify(value),
+      success: function(data){
+        console.log("Success!", data);
+      },
+      error: function(data){
+        console.log(data);
+      }
+  });
+
+});
+
+  </script>
+</html>
